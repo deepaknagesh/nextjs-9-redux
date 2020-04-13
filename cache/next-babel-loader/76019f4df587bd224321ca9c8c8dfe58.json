@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\nimport 'isomorphic-fetch';\nexport default (ComposedComponent => class WithData extends Component {\n  render() {\n    return __jsx(ComposedComponent, this.props);\n  }\n\n});","map":null,"metadata":{},"sourceType":"module"}

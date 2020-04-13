@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react'; // import Layout from '../../containers/Layout';\n\nexport default (function (ComposedComponent) {\n  return function (props) {\n    return (// <Layout>\n      __jsx(ComposedComponent, props) // </Layout>\n\n    );\n  };\n});","map":null,"metadata":{},"sourceType":"module"}
