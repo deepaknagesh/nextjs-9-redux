@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { all } from \"redux-saga/effects\";\nimport TestSaga from \"./tickers/saga\";\nexport default function* rootSaga(getState) {\n  yield all([TestSaga()]);\n}","map":null,"metadata":{},"sourceType":"module"}
